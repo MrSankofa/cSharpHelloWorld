@@ -1,0 +1,11 @@
+/Users/bcunningham/Documents/study/net/helloWorld/myApp/bin/Debug/netcoreapp3.1/myApp
+/Users/bcunningham/Documents/study/net/helloWorld/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/Users/bcunningham/Documents/study/net/helloWorld/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/Users/bcunningham/Documents/study/net/helloWorld/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/Users/bcunningham/Documents/study/net/helloWorld/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/Users/bcunningham/Documents/study/net/helloWorld/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/Users/bcunningham/Documents/study/net/helloWorld/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/Users/bcunningham/Documents/study/net/helloWorld/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/Users/bcunningham/Documents/study/net/helloWorld/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/Users/bcunningham/Documents/study/net/helloWorld/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/Users/bcunningham/Documents/study/net/helloWorld/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
